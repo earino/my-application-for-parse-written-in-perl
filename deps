@@ -1,1 +1,6 @@
+Encode
+FindBin
 File::Slurp
+HTTP::Request
+JSON
+LWP::UserAgent
