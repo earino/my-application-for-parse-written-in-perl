@@ -1,4 +1,4 @@
-git@github.com:earino/my-application-for-parse-written-in-perl.git
+git://github.com/earino/my-application-for-parse-written-in-perl.git
 http://www.linkedin.com/in/earino
 http://twitter.com/earino
 http://herbdean.com/ABCcertified.html
