@@ -4,3 +4,4 @@ File::Slurp
 HTTP::Request
 JSON
 LWP::UserAgent
+LWP::Protocol::https
